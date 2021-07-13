@@ -1,0 +1,19 @@
+{
+  "name": "programmering-reeksamen",
+  "version": "1.0.0",
+  "description": "Written with the use of MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicoRos85/programmering-reeksamen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RicoRos85/programmering-reeksamen/issues"
+  },
+  "homepage": "https://github.com/RicoRos85/programmering-reeksamen#readme"
+}
